@@ -1,0 +1,9 @@
+{
+  "name": "changelog-generator",
+  "description": "Changelog Generator subagent",
+  "version": "1.0.0",
+  "author": {
+    "name": "Joe Heitzeberg"
+  },
+  "homepage": "https://github.com/dudley02/awesome-claude-code-plugins/plugins/changelog-generator"
+}

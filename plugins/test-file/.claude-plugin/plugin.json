@@ -1,0 +1,10 @@
+{
+  "name": "test-file",
+  "description": "Generate comprehensive tests for a specific file",
+  "version": "1.0.0",
+  "author": {
+    "name": " Anand Tyagi",
+    "url": "https://github.com/ananddtyagi"
+  },
+  "homepage": "https://github.com/dudley02/awesome-claude-code-plugins/plugins/test-file"
+}

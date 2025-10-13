@@ -1,0 +1,9 @@
+{
+  "name": "reddit-community-builder",
+  "description": "Reddit Community Builder subagent",
+  "version": "1.0.0",
+  "author": {
+    "name": "Michael Galpert"
+  },
+  "homepage": "https://github.com/dudley02/awesome-claude-code-plugins/plugins/reddit-community-builder"
+}

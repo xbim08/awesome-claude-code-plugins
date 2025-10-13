@@ -1,0 +1,9 @@
+{
+  "name": "github-issue-fix",
+  "description": "This is a detailed way you can analyze the GitHub issues and let Claude handle them in best possible way.",
+  "version": "1.0.0",
+  "author": {
+    "name": "safayavatsal"
+  },
+  "homepage": "https://github.com/dudley02/awesome-claude-code-plugins/plugins/github-issue-fix"
+}

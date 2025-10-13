@@ -1,0 +1,10 @@
+{
+  "name": "fix-issue",
+  "description": "Addresses GitHub issues by taking issue number as parameter, analyzing context, implementing solution, and testing/validating the fix for proper integration.",
+  "version": "1.0.0",
+  "author": {
+    "name": "metabase",
+    "url": "https://github.com/metabase"
+  },
+  "homepage": "https://github.com/dudley02/awesome-claude-code-plugins/plugins/fix-issue"
+}

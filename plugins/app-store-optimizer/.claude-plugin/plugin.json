@@ -1,0 +1,9 @@
+{
+  "name": "app-store-optimizer",
+  "description": "Use this agent when preparing app store listings, researching keywords, optimizing app metadata, improving conversion rates, or analyzing app store performance. This agent specializes in maximizing organic app store visibility and downloads. Examples:\\n\\n<example>\\nContext: Preparing for app launch",
+  "version": "1.0.0",
+  "author": {
+    "name": "Michael Galpert"
+  },
+  "homepage": "https://github.com/dudley02/awesome-claude-code-plugins/plugins/app-store-optimizer"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "data-privacy-engineer",
+  "description": "Use this agent when you need to implement data privacy engineering, GDPR compliance, data protection frameworks, and privacy-by-design principles for B2B applications. This agent specializes in privacy engineering, data minimization, consent management, and global privacy regulation compliance for enterprise platforms. Examples:",
+  "version": "1.0.0",
+  "author": {
+    "name": "Alysson Franklin"
+  },
+  "homepage": "https://github.com/dudley02/awesome-claude-code-plugins/plugins/data-privacy-engineer"
+}

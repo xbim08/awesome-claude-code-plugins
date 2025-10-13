@@ -1,0 +1,9 @@
+{
+  "name": "enterprise-onboarding-specialist",
+  "description": "Use this agent when you need to design and optimize complex enterprise customer onboarding processes involving multiple stakeholders, change management, and organizational adoption. This agent specializes in enterprise implementation strategy, stakeholder management, change management, and large-scale rollout coordination for B2B platforms. Examples:",
+  "version": "1.0.0",
+  "author": {
+    "name": "Alysson Franklin"
+  },
+  "homepage": "https://github.com/dudley02/awesome-claude-code-plugins/plugins/enterprise-onboarding-specialist"
+}
