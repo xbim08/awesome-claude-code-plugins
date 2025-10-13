@@ -19,7 +19,7 @@
         "name": " Anand Tyagi",
         "url": "https://github.com/ananddtyagi"
       },
-      "homepage": "https://github.com/dudley02/awesome-claude-code-plugins/plugins/lyra"
+      "homepage": "https://github.com/dudley02/awesome-claude-code-plugins/tree/main/plugins/lyra"
     },
     {
       "name": "analyze-codebase",
@@ -30,7 +30,7 @@
         "name": " Anand Tyagi",
         "url": "https://github.com/ananddtyagi"
       },
-      "homepage": "https://github.com/dudley02/awesome-claude-code-plugins/plugins/analyze-codebase"
+      "homepage": "https://github.com/dudley02/awesome-claude-code-plugins/tree/main/plugins/analyze-codebase"
     }
   ]
 }
