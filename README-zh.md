@@ -1,9 +1,9 @@
-# Awesome Claude Code Plugins [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# 精选 Claude Code 插件 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [![English](https://img.shields.io/badge/English-Click-yellow)](README.md)
 [![简体中文](https://img.shields.io/badge/简体中文-点击查看-orange)](README-zh.md)
 
-**Awesome Claude Code plugins** —— 精选收录适用于 Claude Code 的 `Slash Commands`、`Subagents`、`MCP Servers` 和 `Hooks` 插件列表。
+**精选 Claude Code 插件列表** —— 收录适用于 Claude Code 的 `Slash Commands`、`Subagents`、`MCP Servers` 和 `Hooks` 任意组合的插件列表。
 
 * [什么是 Claude Code 插件？](#什么是-claude-code-插件)
 * [应用场景](#应用场景)
