@@ -2,12 +2,12 @@
   "name": "awesome-claude-code-plugins",
   "owner": {
     "name": "Awesome Claude Code Plugins",
-    "email": "liduos1998@gmail.com"
+    "email": "support@claudecodeplugins.dev"
   },
   "metadata": {
     "description": "Awesome Claude Code plugins — a curated list of slash commands, subagents, MCP servers, and hooks for Claude Code",
     "version": "0.0.1",
-    "homepage": "https://github.com/ccplugins/awesome-claude-code-plugins"
+    "homepage": "https://claudecodeplugins.dev"
   },
   "plugins": [
     {
@@ -1595,6 +1595,80 @@
       "homepage": "https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/workflow-optimizer",
       "keywords": [
         "subagent"
+      ]
+    },
+    {
+      "name": "agent-sdk-dev",
+      "description": "Development kit for working with the Claude Agent SDK",
+      "source": "./plugins/agent-sdk-dev",
+      "category": "Official Claude Code Plugins",
+      "homepage": "https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/agent-sdk-dev",
+      "keywords": [
+        "development",
+        "engineering"
+      ]
+    },
+    {
+      "name": "pr-review-toolkit",
+      "description": "Comprehensive PR review agents specializing in comments, tests, error handling, type design, code quality, and code simplification",
+      "version": "1.0.0",
+      "author": {
+        "name": "Anthropic",
+        "email": "support@anthropic.com"
+      },
+      "source": "./plugins/pr-review-toolkit",
+      "category": "Official Claude Code Plugins",
+      "homepage": "https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/pr-review-toolkit",
+      "keywords": [
+        "code-quality",
+        "code-testing"
+      ]
+    },
+    {
+      "name": "commit-commands",
+      "description": "Commands for git commit workflows including commit, push, and PR creation",
+      "version": "1.0.0",
+      "author": {
+        "name": "Anthropic",
+        "email": "support@anthropic.com"
+      },
+      "source": "./plugins/commit-commands",
+      "category": "Official Claude Code Plugins",
+      "homepage": "https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/commit-commands",
+      "keywords": [
+        "git-workflow"
+      ]
+    },
+    {
+      "name": "feature-dev",
+      "description": "Comprehensive feature development workflow with specialized agents for codebase exploration, architecture design, and quality review",
+      "version": "1.0.0",
+      "author": {
+        "name": "Siddharth Bidasaria",
+        "email": "sbidasaria@anthropic.com"
+      },
+      "source": "./plugins/feature-dev",
+      "category": "Official Claude Code Plugins",
+      "homepage": "https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/feature-dev",
+      "keywords": [
+        "development",
+        "engineering"
+      ]
+    },
+    {
+      "name": "security-guidance",
+      "description": "Security reminder hook that warns about potential security issues when editing files, including command injection, XSS, and unsafe code patterns",
+      "version": "1.0.0",
+      "author": {
+        "name": "David Dworken",
+        "email": "dworken@anthropic.com"
+      },
+      "source": "./plugins/security-guidance",
+      "category": "Official Claude Code Plugins",
+      "homepage": "https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/security-guidance",
+      "keywords": [
+        "security",
+        "compliance"
       ]
     }
   ]
