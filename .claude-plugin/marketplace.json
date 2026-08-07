@@ -250,6 +250,26 @@
       ]
     },
     {
+      "name": "hermes-tweet",
+      "source": "./plugins/hermes-tweet",
+      "description": "Guide Claude Code users through installing and operating Hermes Tweet, the native Hermes Agent X/Twitter plugin for Xquik workflows.",
+      "version": "0.1.6",
+      "author": {
+        "name": "Xquik",
+        "url": "https://github.com/Xquik-dev"
+      },
+      "category": "Marketing Growth",
+      "homepage": "https://github.com/Xquik-dev/hermes-tweet",
+      "keywords": [
+        "hermes-agent",
+        "xquik",
+        "twitter",
+        "x",
+        "social-media",
+        "automation"
+      ]
+    },
+    {
       "name": "debug-session",
       "source": "./plugins/debug-session",
       "description": "Ask Claude Code to help you debug an issue",
