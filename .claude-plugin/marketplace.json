@@ -250,6 +250,28 @@
       ]
     },
     {
+      "name": "hermes-tweet",
+      "source": "./plugins/hermes-tweet",
+      "description": "Guide Claude Code users through installing and operating Hermes Tweet for catalog-guided X/Twitter data and approved actions.",
+      "version": "0.1.12",
+      "author": {
+        "name": "Xquik",
+        "url": "https://github.com/Xquik-dev"
+      },
+      "category": "Data Analytics",
+      "homepage": "https://github.com/Xquik-dev/hermes-tweet",
+      "keywords": [
+        "hermes-agent",
+        "hermes-plugin",
+        "xquik",
+        "twitter",
+        "twitter-api",
+        "x",
+        "social-media",
+        "automation"
+      ]
+    },
+    {
       "name": "debug-session",
       "source": "./plugins/debug-session",
       "description": "Ask Claude Code to help you debug an issue",
